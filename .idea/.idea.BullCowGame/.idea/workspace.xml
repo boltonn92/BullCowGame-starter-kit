@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="305585f9-22e6-4137-877d-7fbeafbc0893" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +157,7 @@
       <workItem from="1597640257837" duration="835000" />
       <workItem from="1597641228003" duration="3487000" />
       <workItem from="1597645035343" duration="226000" />
+      <workItem from="1597645549260" duration="95000" />
     </task>
     <servers />
   </component>

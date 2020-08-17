@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="305585f9-22e6-4137-877d-7fbeafbc0893" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Source/BullCowGame/HiddenWordList.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.h" />
+        <option value="$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gDDMOvGiKuDfaSilZezMku3rIn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BullCowGame" type="CppProject" factoryName="C++ Project">
+      <configuration_1>
+        <option name="CONFIGURATION" value="DebugGame Editor" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/BullCowGame.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_1>
+      <configuration_2>
+        <option name="CONFIGURATION" value="Development" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/BullCowGame.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_2>
+      <configuration_3>
+        <option name="CONFIGURATION" value="DebugGame Editor" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/BullCowGame.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_3>
+      <configuration_4>
+        <option name="CONFIGURATION" value="Shipping" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/BullCowGame.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_4>
+      <configuration_5>
+        <option name="CONFIGURATION" value="Shipping" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/BullCowGame.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_5>
+      <configuration_6>
+        <option name="CONFIGURATION" value="DebugGame" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/BullCowGame.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_6>
+      <configuration_7>
+        <option name="CONFIGURATION" value="DebugGame" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/BullCowGame.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_7>
+      <configuration_8>
+        <option name="CONFIGURATION" value="Development Editor" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/BullCowGame.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_8>
+      <configuration_9>
+        <option name="CONFIGURATION" value="Development Editor" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/BullCowGame.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_9>
+      <configuration_10>
+        <option name="CONFIGURATION" value="Development" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/BullCowGame.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_10>
+      <option name="DEFAULT_PROJECT_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/BullCowGame.vcxproj" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="305585f9-22e6-4137-877d-7fbeafbc0893" name="Default Changelist" comment="" />
+      <created>1597640239442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597640239442</updated>
+      <workItem from="1597640257837" duration="835000" />
+      <workItem from="1597641228003" duration="3487000" />
+      <workItem from="1597645035343" duration="226000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="441" height="464" key="DebuggerActiveHint" timestamp="1597644408556">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="441" height="464" key="DebuggerActiveHint/0.0.1920.1160@0.0.1920.1160" timestamp="1597644408556" />
+    <state width="1877" height="423" key="GridCell.Tab.0.bottom" timestamp="1597644744499">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1597644744499" />
+    <state width="1877" height="423" key="GridCell.Tab.0.center" timestamp="1597644744499">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1597644744499" />
+    <state width="1877" height="423" key="GridCell.Tab.0.left" timestamp="1597644744499">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1597644744499" />
+    <state width="1877" height="423" key="GridCell.Tab.0.right" timestamp="1597644744499">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1597644744499" />
+    <state width="1877" height="423" key="GridCell.Tab.1.bottom" timestamp="1597644744500">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1597644744500" />
+    <state width="1877" height="423" key="GridCell.Tab.1.center" timestamp="1597644744500">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1597644744500" />
+    <state width="1877" height="423" key="GridCell.Tab.1.left" timestamp="1597644744500">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1597644744499" />
+    <state width="1877" height="423" key="GridCell.Tab.1.right" timestamp="1597644744500">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1597644744500" />
+    <state width="1877" height="423" key="GridCell.Tab.2.bottom" timestamp="1597644744501">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.2.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1597644744501" />
+    <state width="1877" height="423" key="GridCell.Tab.2.center" timestamp="1597644744500">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.2.center/0.0.1920.1160@0.0.1920.1160" timestamp="1597644744500" />
+    <state width="1877" height="423" key="GridCell.Tab.2.left" timestamp="1597644744500">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.2.left/0.0.1920.1160@0.0.1920.1160" timestamp="1597644744500" />
+    <state width="1877" height="423" key="GridCell.Tab.2.right" timestamp="1597644744500">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.2.right/0.0.1920.1160@0.0.1920.1160" timestamp="1597644744500" />
+    <state width="1877" height="423" key="GridCell.Tab.3.bottom" timestamp="1597644744501">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.3.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1597644744501" />
+    <state width="1877" height="423" key="GridCell.Tab.3.center" timestamp="1597644744501">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.3.center/0.0.1920.1160@0.0.1920.1160" timestamp="1597644744501" />
+    <state width="1877" height="423" key="GridCell.Tab.3.left" timestamp="1597644744501">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.3.left/0.0.1920.1160@0.0.1920.1160" timestamp="1597644744501" />
+    <state width="1877" height="423" key="GridCell.Tab.3.right" timestamp="1597644744501">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="423" key="GridCell.Tab.3.right/0.0.1920.1160@0.0.1920.1160" timestamp="1597644744501" />
+    <state x="578" y="271" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597642589159">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="578" y="271" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1597642589159" />
+  </component>
+</project>

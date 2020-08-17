@@ -17,9 +17,9 @@ class BULLCOWGAME_API UBullCowCartridge : public UCartridge
 	void SetupGame();
 	void EndGame();
 	void LoseLife(FString Guess);
-	void ProcessGuess(FString Guess);
-	bool IsIsogram(FString Guess) const;
-	TArray<FString> GetValidWords(TArray<FString>) const;
+	void ProcessGuess(const FString& Guess);
+	bool IsIsogram(const FString& Word) const;
+	TArray<FString> GetValidWords(const TArray<FString>& WordList) const;
 
 
 	// Your declarations go below!
@@ -28,5 +28,4 @@ class BULLCOWGAME_API UBullCowCartridge : public UCartridge
 	int32 Lives;
 	bool bGameOver;
 	TArray<FString> Words;
-
 };

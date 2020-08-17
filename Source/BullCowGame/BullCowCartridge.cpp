@@ -12,9 +12,7 @@ void UBullCowCartridge::BeginPlay() // When the game starts
 
     SetupGame();
     GetValidWords(Words);
-    const FString WordListPath = FPaths::ProjectContentDir() / TEXT("WordLists/HiddenWordList.txt");
-    FFileHelper::LoadFileToStringArray(Words, *WordListPath);
-    HiddenWord = GetValidWords(Words)[FMath::RandRange(0, GetValidWords(Words).Num() - 1)]; //TEXT("Brioche");
+
     PrintLine(TEXT("The number of possible words is %i"), Words.Num());
     PrintLine(TEXT("The number of valid words is: %i"), GetValidWords(Words).Num());
     PrintLine(TEXT("ValidWords: %i"), GetValidWords(Words).Num() - 1);
@@ -52,8 +50,9 @@ void UBullCowCartridge::SetupGame()
 {
     // Welcoming the player
     PrintLine(TEXT("Welcome to bull cows!"));
-
-    /////////////////////////////////////////////// This is where you had the hidden word. I moved it to the begin play function.
+    const FString WordListPath = FPaths::ProjectContentDir() / TEXT("WordLists/HiddenWordList.txt");
+    FFileHelper::LoadFileToStringArray(Words, *WordListPath);
+    HiddenWord = GetValidWords(Words)[FMath::RandRange(0, GetValidWords(Words).Num() - 1)]; //TEXT("Brioche");
     Lives = HiddenWord.Len();
     bGameOver = false;
 

@@ -7,11 +7,9 @@ void UBullCowCartridge::BeginPlay() // When the game starts
 {
     Super::BeginPlay();
 
-
     //PrintLine(TEXT("%i"), FMath::RandRange(0, 10));
-
     SetupGame();
-    GetValidWords(Words);
+    //GetValidWords(Words);
 
     PrintLine(TEXT("The number of possible words is %i"), Words.Num());
     PrintLine(TEXT("The number of valid words is: %i"), GetValidWords(Words).Num());
@@ -52,14 +50,15 @@ void UBullCowCartridge::SetupGame()
     PrintLine(TEXT("Welcome to bull cows!"));
     const FString WordListPath = FPaths::ProjectContentDir() / TEXT("WordLists/HiddenWordList.txt");
     FFileHelper::LoadFileToStringArray(Words, *WordListPath);
-    HiddenWord = GetValidWords(Words)[FMath::RandRange(0, GetValidWords(Words).Num() - 1)]; //TEXT("Brioche");
+    Isograms = GetValidWords(Words);
+    HiddenWord = Isograms[FMath::RandRange(0, Isograms.Num() - 1)]; //TEXT("Brioche");
     Lives = HiddenWord.Len();
     bGameOver = false;
 
     PrintLine(TEXT("You have %i lives."), Lives);
     PrintLine(TEXT("Guess the %i letter word..."), HiddenWord.Len());
     PrintLine(TEXT("Type in your guess. \nPress enter to continue..."));     // Prompt player for guess
-   }
+}
 
 void UBullCowCartridge::ProcessGuess(const FString& Guess)
 {
@@ -83,21 +82,21 @@ void UBullCowCartridge::ProcessGuess(const FString& Guess)
         PrintLine(TEXT("No repeating letters, guess again"));
         return;
     }
-      else
-      {
-            if (Lives > 1)
-            {
-                LoseLife(Guess);
-            }
-            else
-            {
-                ClearScreen();
-                PrintLine(TEXT("You have no lives left!"));
-                PrintLine(TEXT("The hidden word was: %s!"), *HiddenWord);
-                EndGame();
-                return;
-            }
-      }
+    else
+    {
+        if (Lives > 1)
+        {
+            LoseLife(Guess);
+        }
+        else
+        {
+            ClearScreen();
+            PrintLine(TEXT("You have no lives left!"));
+            PrintLine(TEXT("The hidden word was: %s!"), *HiddenWord);
+            EndGame();
+            return;
+        }
+    }
 }
 
 void UBullCowCartridge::LoseLife(FString Guess)
